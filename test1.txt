@@ -9,3 +9,6 @@
 26-06-2020  22:38                 0 test1.txt
                1 File(s)              0 bytes
                3 Dir(s)  997,307,912,192 bytes free
+
+
+changed the test1.txt file to check git status
