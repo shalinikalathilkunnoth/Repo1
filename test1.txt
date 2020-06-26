@@ -1,0 +1,11 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 3E4C-B781
+
+ Directory of D:\SaiGanesha\developer\testapps\gitapp
+
+26-06-2020  22:38    <DIR>          .
+26-06-2020  22:38    <DIR>          ..
+26-06-2020  22:37    <DIR>          .git
+26-06-2020  22:38                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  997,307,912,192 bytes free
